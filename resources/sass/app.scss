@@ -1,0 +1,14 @@
+/* ./your-css-folder/styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+    a{
+        text-decoration: none;
+    }
+
+
+}
+
